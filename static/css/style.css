@@ -1,0 +1,118 @@
+.avatar {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    border-radius: 50%;
+    /* In case of transparent photo, set the background like this */
+    background-color: #f8f9fa;
+}
+
+.nav-link.dropdown-toggle {
+    display: inline-flex;
+    align-items: center;
+}
+
+.navbar-brand {
+    -webkit-text-stroke: #0b5ed7 1px;
+    text-shadow: 2px 2px 0 #0b5ed7;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background-color: #dcdcdc;
+}
+
+.card {
+    outline: #a0a0a0 solid 1px;
+}
+
+a.card-link {
+    color: black;
+    text-decoration: none;
+}
+
+.card:hover {
+    outline: #4f4f4f solid 2px;
+    background-color: #d9dbdc;
+}
+
+.mt-6 {
+    margin-top: 5.5rem;
+}
+
+.search-bar {
+    width: 500px;
+}
+
+.img {
+    background-repeat: no-repeat;
+    /* Prevent background image from repeating */
+    background-size: cover;
+    /* Scale the background image to cover the entire container */
+    background-position: center center;
+    /* Center the background image horizontally and vertically */
+}
+
+
+.img,
+.login-wrap {
+    border: #4f4f4f solid 2px;
+    width: 50%;
+}
+
+.row>* {
+    padding-right: 0;
+}
+
+/* Button animation */
+.button {
+    border-radius: 50%;
+    background-color: #007bff;
+    /* Adjusted background color */
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    width: auto;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    align-items: center;
+}
+
+.button i {
+    transition: all 0.5s;
+}
+
+.button:hover {
+    border-radius: 4px;
+}
+
+.button:hover i {
+    margin-right: 10px;
+}
+
+.button span {
+    display: none;
+}
+
+.button:hover span {
+    display: inline-block;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Styles for messages */
+.message {
+    /* Adjust as needed */
+    margin-bottom: 10px;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #aaaaaa;
+}
