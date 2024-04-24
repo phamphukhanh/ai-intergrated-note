@@ -22,6 +22,7 @@ Note: The openaikey.py is not included (obviously), you must create one and add 
     sudo /opt/lampp/lampp start
     ```
 
+3. Import the ```note_management.sql``` included in the repository.
 ### Running the Server
 
 To run the server, follow these steps:
