@@ -17,6 +17,7 @@ Note: The openaikey.py is not included (obviously), you must create one and add 
 
 1. Download and install XAMPP from [here](https://www.apachefriends.org/index.html).
 2. Once installed, you can start XAMPP with the following command:
+
     ```bash
     sudo /opt/lampp/lampp start
     ```
