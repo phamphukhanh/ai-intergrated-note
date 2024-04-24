@@ -11,7 +11,7 @@ Before installing the application, make sure you have the following dependencies
 - **langchain**: for utilities of langchain library.
 - **langchain-openai**: for supporting langchain in using OpenAI API.
 
-Note: The OpenAIKey.py is not included (obviously), you must create one and add your key into it in order to use the "Summarizing the note content" feature. The file is placed in the main directory.
+Note: The openaikey.py is not included (obviously), you must create one and add your key into it in order to use the "Summarizing the note content" feature. The file is placed in the main directory.
 
 ### XAMPP Setup
 
