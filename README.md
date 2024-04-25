@@ -3,7 +3,9 @@
 ## Introduction
 
 Notaki is a note-taking web-application using Django framework. Including basic functionalities, CRUD operations for notes and OpenAi API integrated within these features to summarize your note content, giving an explicit view for user to catch up their information whenever the content is not well-organized.<br />
+
 Notice: The openaikey.py will not be included, you must create one and add your key (or create a environment variable named OPENAI_API_KEY) into it in order to use the "Summarizing the note content" feature. The file is placed in the main directory.<br />
+
 For more information, follow my report [here](https://www.overleaf.com/read/vtqctcgmqbjw#e897d2) (Vietnamese).
 
 ## Installation
