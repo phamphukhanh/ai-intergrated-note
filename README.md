@@ -1,4 +1,4 @@
-# Note-taking Application (with OpenAI API integrated for summarizing)
+# Notaki - A note-taking Application (with OpenAI API integrated for summarizing)
 
 ## Introduction
 
